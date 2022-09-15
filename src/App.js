@@ -25,7 +25,7 @@ function App() {
       <div data-aos="zoom-up" data-aos-duration="800">
         <Skills />
       </div>
-      <div data-aos="zoom-out" data-aos-duration="3000">
+      <div data-aos="fade-up" data-aos-duration="3000">
         <Contact />
         <Footer />
       </div>
